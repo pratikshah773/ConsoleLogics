@@ -4,37 +4,6 @@ namespace base_constructor_inheriting_from_base_constructor_
 {
 
 
-    //    class first
-    //    {
-    //        int a, b;
-
-    //        public first(int para1 , int para2)
-
-    //        {
-    //            a = para1;
-    //            b = para2;
-
-    //        }
-    //    }
-
-    //    class second
-    //    {
-    //        int c ,b,a ;
-
-    //        public second(int para1, int para2, int para3) : base()
-
-    //        {
-    //           this.c = para3;
-
-
-
-    //        }
-
-    //       public void print()
-    //        {
-    //            Console.WriteLine(a,b,c);
-    //        }
-    //    }
 
     class Class1
     {
